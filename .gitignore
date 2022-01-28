@@ -38,3 +38,11 @@ yarn-debug.log*
 Gemfile
 database.yml
 Gemfile.lock
+
+/Gemfile
+/database.yml
+/Gemfile.lock
+
+./Gemfile
+./database.yml
+./Gemfile.lock
